@@ -1,10 +1,4 @@
 <h1 align="center">Hello there! My name is Cris Huayra. 👋🤓</h1>
-## I'm a Fronted Developer!!
-- 👋 Hi, I’m @Cris-hr
-- 👀 I'm interested in creating websites.
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on Movie Challenge
-- 📫 How to reach me cris.huayraromero@gmail.com
 
 <br/>
 
@@ -18,6 +12,12 @@ const Cris = {
  message: {"We are lifelong learners"
 }
 ```
+## I'm a Fronted Developer!!
+- 👋 Hi, I’m @Cris-hr
+- 👀 I'm interested in creating websites.
+- 🌱 I’m currently learning REACT
+- 💞️ I’m looking to collaborate on Movie Challenge
+- 📫 How to reach me cris.huayraromero@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/crishr.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cris-huayra/) 
