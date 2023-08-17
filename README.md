@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! My name is Cris Huayra. 👋🤓</h1>
+<h1 align="center">Hello there! My name is Cris Huayra. 👋:woman:</h1>
 
 <br/>
 
