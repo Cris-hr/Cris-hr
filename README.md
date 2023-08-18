@@ -2,7 +2,7 @@
 
 <br/>
 
-```javascript
+```Javascript
 const Cris = {
   pronouns: "she" | "her",
   code: [Javascript, HTML5, CSS3 ],
