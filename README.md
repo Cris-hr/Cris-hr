@@ -5,8 +5,8 @@
 ```Javascript
 const Cris = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML5, CSS3 ],
-  tools: [React, Node, Jest],
+  code: [JAVASCRIPT, HTML5, CSS3 ],
+  tools: [REACT, NODE.JS, JEST],
   architecture: ["SPA"],
   
  message: {"We are lifelong learners"
