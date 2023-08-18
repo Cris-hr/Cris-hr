@@ -13,7 +13,7 @@ const Cris = {
 }
 ```
 ## I'm a Fronted Developer!!
-- 👋 Hi, I’m @Cris-hr
+- 👋 Hi, I’m Cris-hr
 - 👀 I'm interested in creating websites.
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on Movie Challenge
