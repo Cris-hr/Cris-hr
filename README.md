@@ -5,7 +5,7 @@
 ```JavaScript
 const Cris = {
   pronouns: "she" | "her",
-  code: [JS, HTML, CSS ],
+  code: [JavaScript, HTML, CSS ],
   tools: [REACT, NODE.JS, JEST],
   architecture: ["SPA"],
   
