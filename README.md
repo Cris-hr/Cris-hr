@@ -6,18 +6,18 @@
 const Cris = {
   pronouns: "she" | "her",
   code: [JS, HTML, CSS3, TS ],
-  tools: [REACT, NODE.JS, NEXT],
+  tools: [REACT.JS, REACT NATIVE, NEXT],
   architecture: ["SPA"],
   
  message: {"We are lifelong learners"
 }
 ```
-## I'm a Fronted Developer!!
-- 👋 Hi, I’m Cris-hr
+## I'm a Front-End Developer!!
+- 👋 Hi, I’m Cris
 - 👀 I'm interested in creating websites.
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning REACT NATIVE for Mobile app.
 - 💞️ My goal is to develop digital solutions with impact and added value.
-- 📫 How to reach me cris.huayraromero@gmail.com
+- 📫 How to reach me: cris.huayraromero@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/crishr.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cris-huayra/) 
